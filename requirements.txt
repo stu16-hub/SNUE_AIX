@@ -1,2 +1,7 @@
 streamlit
-openai
+streamlit-folium
+folium
+google-generativeai
+requests
+Pillow
+upstage
